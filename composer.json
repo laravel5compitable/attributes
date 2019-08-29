@@ -1,5 +1,5 @@
 {
-    "name": "rinvex/attributes",
+    "name": "laravel5compitable/attributes",
     "description": "Rinvex Attributes is a robust, intelligent, and integrated Entity-Attribute-Value model (EAV) implementation for Laravel Eloquent, with powerful underlying for managing entity attributes implicitly as relations with ease. It utilizes the power of Laravel Eloquent, with smooth and seamless integration.",
     "keywords": [
         "eav",
@@ -18,18 +18,18 @@
         "entity-attribute-value"
     ],
     "license": "MIT",
-    "homepage": "https://rinvex.com",
+    "homepage": "https://zapbuild.com",
     "support": {
-        "email": "help@rinvex.com",
-        "issues": "https://github.com/rinvex/attributes/issues",
-        "source": "https://github.com/rinvex/attributes",
-        "docs": "https://github.com/rinvex/attributes/blob/master/README.md"
+        "email": "indradevprasad+10@zapbuild.com",
+        "issues": "https://github.com/laravel5compitable/attributes/issues",
+        "source": "https://github.com/laravel5compitable/attributes",
+        "docs": "https://github.com/laravel5compitable/attributes/blob/master/README.md"
     },
     "authors": [
         {
-            "name": "Rinvex LLC",
-            "homepage": "https://rinvex.com",
-            "email": "help@rinvex.com"
+            "name": "Zapbuild",
+            "homepage": "https://zapbuild.com",
+            "email": "indradevprasad+10@zapbuild.com"
         },
         {
             "name": "Abdelrahman Omran",
